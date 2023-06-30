@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "ccit"
+  name: "The Casper experience"
   text: "- Connecting Careers for MBO and AD Informatics Students: Your Path to Professional Success!"
-  tagline: My great project tagline
+  tagline: Making it a fun and easy experience to find your next job
+  image: 
+    src: /hero.jpg
+    als: "Hyno Toad!"
   actions:
     - theme: brand
       text: Markdown Examples
