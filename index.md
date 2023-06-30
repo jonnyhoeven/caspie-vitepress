@@ -11,18 +11,18 @@ hero:
     als: "Hyno Toad!"
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Vacature aanmaken
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Hoe kan ik beter solliciteren?
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: Henk maakt het verschil
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Lydia doet het anders maar maakt iedereen blij
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Hulp bij het vinden van een baan
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
